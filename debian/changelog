@@ -7,7 +7,7 @@ libkdegames (4:14.12.2-1~) UNRELEASED; urgency=medium
 libkdegames (4:14.12.2-0ubuntu1) vivid; urgency=medium
 
   * New upstream release
-  * Remove unstable from watch file, uscan fails with 
+  * Remove unstable from watch file, uscan fails with
     remote site does not even have current version
 
  -- Scarlett Clark <sgclark@kubuntu.org>  Tue, 10 Feb 2015 09:38:39 -0800
@@ -262,7 +262,7 @@ libkdegames (4:4.10.80-0ubuntu1) saucy; urgency=low
   * New upstream release
 
   [ Philip Muškovac ]
-  * Add Qml imports to libkdegames6.install 
+  * Add Qml imports to libkdegames6.install
   * Add new symbols to libkdegames6.symbols
 
   [ Jonathan Riddell ]
@@ -356,7 +356,7 @@ libkdegames (4:4.9.97-0ubuntu1) raring; urgency=low
 libkdegames (4:4.9.95-0ubuntu1) raring; urgency=low
 
   [ Philip Muškovac ]
-  * New upstream release 
+  * New upstream release
   * drop kubuntu_01_cmake_licence.diff, fixed upstream
 
   [ Scott Kitterman ]
@@ -403,4 +403,3 @@ libkdegames (4:4.9.90-0ubuntu1) raring-proposed; urgency=low
   * Add kubuntu_01_cmake_licence.diff from upstream to add missing licence
 
  -- Jonathan Riddell <jriddell@ubuntu.com>  Sat, 24 Nov 2012 05:40:53 +0000
-
