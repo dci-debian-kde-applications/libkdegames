@@ -1,3 +1,14 @@
+libkdegames (4:14.12.50-0ubuntu1) UNRELEASED; urgency=medium
+
+  * KDE Frameworks 5 port
+    + Rename all libraries to match new sonames
+    + Give the data package a kf5 suffix as to not conflict with
+      the kdelibs4 version which has different paths but the same assets
+    + Rename declarative package to align with the qml-module-foo naming
+      policy
+
+ -- Harald Sitter <sitter@kde.org>  Tue, 03 Mar 2015 11:46:10 +0100
+
 libkdegames (4:14.12.2-0ubuntu1) vivid; urgency=medium
 
   * New upstream release
