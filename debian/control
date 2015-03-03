@@ -57,7 +57,6 @@ Description: shared library for KDE games
 
 Package: libkf5kdegamesprivate1
 Architecture: any
-X-Debian-ABI: 1
 Depends: ${misc:Depends}, ${shlibs:Depends}
 Description: private part of shared library for KDE games
  This package contains the private parts of the shared library used by KDE
@@ -80,8 +79,7 @@ Architecture: any
 Section: libdevel
 Depends: libkf5kdegames6 (= ${binary:Version}),
          libkf5kdegamesprivate1 (= ${binary:Version}),
-         ${misc:Depends},
-         ${sameVersionDep:kdelibs5-dev:libkdegames6abi1}
+         ${misc:Depends}
 Description: development files for the KDE games library
  This package contains development files for building software that uses
  libraries from the KDE games module.
