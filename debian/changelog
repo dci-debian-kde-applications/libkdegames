@@ -1,4 +1,4 @@
-libkdegames (4:15.04.2-0ubuntu1) UNRELEASED; urgency=medium
+libkdegames (4:15.04.2-0ubuntu1) wily; urgency=medium
 
   [ Harald Sitter ]
   * KDE Frameworks 5 port
@@ -11,7 +11,7 @@ libkdegames (4:15.04.2-0ubuntu1) UNRELEASED; urgency=medium
   [ Scarlett Clark ]
   * New upstream release
 
- -- Jonathan Riddell <jriddell@ubuntu.com>  Sat, 06 Jun 2015 02:14:00 +0200
+ -- Jonathan Riddell <jriddell@ubuntu.com>  Tue, 09 Jun 2015 19:43:49 +0200
 
 libkdegames (4:14.12.2-0ubuntu1) vivid; urgency=medium
 
