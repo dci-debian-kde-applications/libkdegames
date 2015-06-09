@@ -10,11 +10,6 @@ libkdegames (4:15.04.2-0ubuntu1) UNRELEASED; urgency=medium
 
   [ Scarlett Clark ]
   * New upstream release
-  * New upstream release
-  * Vivid backport
-
-  [ Jonathan Riddell ]
-  * New upstream release
 
  -- Jonathan Riddell <jriddell@ubuntu.com>  Sat, 06 Jun 2015 02:14:00 +0200
 
