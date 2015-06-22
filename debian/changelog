@@ -1,3 +1,9 @@
+libkdegames (4:15.04.2-0ubuntu4) wily; urgency=medium
+
+  * Remove libkf5kdegames6.acc.in until I work out how to fix it
+
+ -- Jonathan Riddell <jriddell@ubuntu.com>  Mon, 22 Jun 2015 22:40:35 +0200
+
 libkdegames (4:15.04.2-0ubuntu3) wily; urgency=medium
 
   * Port libkf5kdegames6.acc to kf5
