@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<descriptor>
+
+<version>
+    15.04.2
+</version>
+
+<headers>
+    /usr/include/KF5/KF5KDEGames/kgthemeselector.h
+    /usr/include/KF5/KF5KDEGames/kgamerendereditem.h
+    /usr/include/KF5/KF5KDEGames/libkdegames_export.h
+    /usr/include/KF5/KF5KDEGames/kgtheme.h
+    /usr/include/KF5/KF5KDEGames/kstandardgameaction.h
+    /usr/include/KF5/KF5KDEGames/kgdeclarativeview.h
+    /usr/include/KF5/KF5KDEGames/kgthemeprovider.h
+    /usr/include/KF5/KF5KDEGames/kgamepopupitem.h
+    /usr/include/KF5/KF5KDEGames/kgamerenderer.h
+    /usr/include/KF5/KF5KDEGames/kgdifficulty.h
+    /usr/include/KF5/KF5KDEGames/kdegames_version.h
+    /usr/include/KF5/KF5KDEGames/KDE/KGameRenderer
+    /usr/include/KF5/KF5KDEGames/KDE/KGameRenderedItem
+    /usr/include/KF5/KF5KDEGames/KDE/KgThemeProvider
+    /usr/include/KF5/KF5KDEGames/KDE/KgThemeSelector
+    /usr/include/KF5/KF5KDEGames/KDE/KgTheme
+    /usr/include/KF5/KF5KDEGames/KDE/KScoreDialog
+    /usr/include/KF5/KF5KDEGames/KDE/KGamePopupItem
+    /usr/include/KF5/KF5KDEGames/KDE/KgAudioScene
+    /usr/include/KF5/KF5KDEGames/KDE/KgSound
+    /usr/include/KF5/KF5KDEGames/KDE/KHighscore
+    /usr/include/KF5/KF5KDEGames/KDE/KGameRenderedObjectItem
+    /usr/include/KF5/KF5KDEGames/KDE/KgDifficulty
+    /usr/include/KF5/KF5KDEGames/KDE/KGameRendererClient
+    /usr/include/KF5/KF5KDEGames/KDE/KgDeclarativeView
+    /usr/include/KF5/KF5KDEGames/KDE/KGameClock
+    /usr/include/KF5/KF5KDEGames/KDE/KExtHighscore
+    /usr/include/KF5/KF5KDEGames/KDE/KStandardGameAction
+    /usr/include/KF5/KF5KDEGames/kgameclock.h
+    /usr/include/KF5/KF5KDEGames/kgamerenderedobjectitem.h
+    /usr/include/KF5/KF5KDEGames/highscore
+    /usr/include/KF5/KF5KDEGames/highscore/khighscore.h
+    /usr/include/KF5/KF5KDEGames/highscore/kexthighscore_item.h
+    /usr/include/KF5/KF5KDEGames/highscore/kscoredialog.h
+    /usr/include/KF5/KF5KDEGames/highscore/kexthighscore.h
+    /usr/include/KF5/KF5KDEGames/kgaudioscene.h
+    /usr/include/KF5/KF5KDEGames/kgsound.h
+    /usr/include/KF5/KF5KDEGames/kgamerendererclient.h
+    /usr/include/KF5/KF5KDEGames/libkdegames_capabilities.h
+</headers>
+
+<libs>
+    /usr/lib/@@DEB_HOST_MULTIARCH@@/libKF5KDEGames.so
+</libs>
+
+</descriptor>
