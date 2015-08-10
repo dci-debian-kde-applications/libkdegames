@@ -1,6 +1,6 @@
 libkdegames (4:4.14.2-2~) UNRELEASED; urgency=medium
 
-  * Update symbols files.
+  * Update symbols files. (Closes: #777950)
 
  -- Maximiliano Curia <maxy@debian.org>  Mon, 10 Aug 2015 14:18:23 +0200
 
