@@ -1,4 +1,4 @@
-# SymbolsHelper-Confirmed: 4:4.13.1 arm64 ppc64el x32
+# SymbolsHelper-Confirmed: 4:4.14.2 amd64
 libkdegames.so.6abi1 libkdegames6abi1 #MINVER#
  ABI_6_1@ABI_6_1 4:4.11.1
  _ZN10KGameClock11qt_metacallEN11QMetaObject4CallEiPPv@ABI_6_1 4:4.11.1
@@ -215,9 +215,9 @@ libkdegames.so.6abi1 libkdegames6abi1 #MINVER#
  _ZN15KgThemeSelector11qt_metacastEPKc@ABI_6_1 4:4.11.1
  _ZN15KgThemeSelector12showAsDialogERK7QString@ABI_6_1 4:4.11.1
  _ZN15KgThemeSelector16staticMetaObjectE@ABI_6_1 4:4.11.1
- _ZN15KgThemeSelector6DialogD0Ev@ABI_6_1 4:4.11.1
- _ZN15KgThemeSelector6DialogD1Ev@ABI_6_1 4:4.11.1
- _ZN15KgThemeSelector6DialogD2Ev@ABI_6_1 4:4.11.1
+ (optional=gccinternal)_ZN15KgThemeSelector6DialogD0Ev@ABI_6_1 4:4.11.1
+ (optional=gccinternal)_ZN15KgThemeSelector6DialogD1Ev@ABI_6_1 4:4.11.1
+ (optional=gccinternal)_ZN15KgThemeSelector6DialogD2Ev@ABI_6_1 4:4.11.1
  _ZN15KgThemeSelector7Private21_k_showNewStuffDialogEv@ABI_6_1 4:4.11.1
  _ZN15KgThemeSelector7Private22_k_updateListSelectionEPK7KgTheme@ABI_6_1 4:4.11.1
  _ZN15KgThemeSelector7Private26_k_updateProviderSelectionEv@ABI_6_1 4:4.11.1
@@ -238,9 +238,9 @@ libkdegames.so.6abi1 libkdegames6abi1 #MINVER#
  _ZN17KgDeclarativeView16staticMetaObjectE@ABI_6_1 4:4.11.1
  _ZN17KgDeclarativeViewC1EP7QWidget@ABI_6_1 4:4.11.1
  _ZN17KgDeclarativeViewC2EP7QWidget@ABI_6_1 4:4.11.1
- _ZN17KgDeclarativeViewD0Ev@ABI_6_1 4:4.11.1
- _ZN17KgDeclarativeViewD1Ev@ABI_6_1 4:4.11.1
- _ZN17KgDeclarativeViewD2Ev@ABI_6_1 4:4.11.1
+ (optional=gccinternal)_ZN17KgDeclarativeViewD0Ev@ABI_6_1 4:4.11.1
+ (optional=gccinternal)_ZN17KgDeclarativeViewD1Ev@ABI_6_1 4:4.11.1
+ (optional=gccinternal)_ZN17KgDeclarativeViewD2Ev@ABI_6_1 4:4.11.1
  _ZN17KgDifficultyLevel11qt_metacallEN11QMetaObject4CallEiPPv@ABI_6_1 4:4.11.1
  _ZN17KgDifficultyLevel11qt_metacastEPKc@ABI_6_1 4:4.11.1
  _ZN17KgDifficultyLevel16staticMetaObjectE@ABI_6_1 4:4.11.1
@@ -502,6 +502,6 @@ libkdegames.so.6abi1 libkdegames6abi1 #MINVER#
  (c++)"non-virtual thunk to KGameRenderedObjectItem::shape() const@ABI_6_1" 4:4.11.1
  (c++)"non-virtual thunk to KGameRenderedObjectItem::~KGameRenderedObjectItem()@ABI_6_1" 4:4.11.1
  (c++)"non-virtual thunk to KScoreDialog::~KScoreDialog()@ABI_6_1" 4:4.11.1
- (c++)"non-virtual thunk to KgDeclarativeView::~KgDeclarativeView()@ABI_6_1" 4:4.11.1
- (c++)"non-virtual thunk to KgThemeSelector::Dialog::~Dialog()@ABI_6_1" 4:4.11.1
+ (optional=gccinternal|c++)"non-virtual thunk to KgDeclarativeView::~KgDeclarativeView()@ABI_6_1" 4:4.11.1
+ (optional=gccinternal|c++)"non-virtual thunk to KgThemeSelector::Dialog::~Dialog()@ABI_6_1" 4:4.11.1
  (c++)"non-virtual thunk to KgThemeSelector::~KgThemeSelector()@ABI_6_1" 4:4.11.1
