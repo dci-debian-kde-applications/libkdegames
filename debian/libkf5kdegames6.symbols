@@ -1,5 +1,5 @@
-# SymbolsHelper-Confirmed: 4:15.04.2+git20150805.1219 amd64 i386
-libKF5KDEGames.so.7 libkf5kdegames7 #MINVER#
+# SymbolsHelper-Confirmed: 4:14.12.50 amd64
+libKF5KDEGames.so.6 libkf5kdegames6 #MINVER#
  _ZN10KGameClock11qt_metacallEN11QMetaObject4CallEiPPv@Base 4:14.12.50
  _ZN10KGameClock11qt_metacastEPKc@Base 4:14.12.50
  _ZN10KGameClock11timeChangedERK7QString@Base 4:14.12.50
@@ -34,6 +34,7 @@ libKF5KDEGames.so.7 libkf5kdegames7 #MINVER#
  _ZN10KHighscoreD0Ev@Base 4:14.12.50
  _ZN10KHighscoreD1Ev@Base 4:14.12.50
  _ZN10KHighscoreD2Ev@Base 4:14.12.50
+ (optional=templinst)_ZN12KConfigGroup10writeEntryIbEEvPKcRKT_6QFlagsIN11KConfigBase15WriteConfigFlagEE@Base 4:14.12.50
  _ZN12KScoreDialog10setCommentERK7QString@Base 4:14.12.50
  _ZN12KScoreDialog11qt_metacallEN11QMetaObject4CallEiPPv@Base 4:14.12.50
  _ZN12KScoreDialog11qt_metacastEPKc@Base 4:14.12.50
@@ -92,6 +93,58 @@ libKF5KDEGames.so.7 libkf5kdegames7 #MINVER#
  _ZN12KgDifficultyD0Ev@Base 4:14.12.50
  _ZN12KgDifficultyD1Ev@Base 4:14.12.50
  _ZN12KgDifficultyD2Ev@Base 4:14.12.50
+ _ZN13KExtHighscore10firstScoreEv@Base 4:14.12.50
+ _ZN13KExtHighscore11setGameTypeEj@Base 4:14.12.50
+ _ZN13KExtHighscore11submitScoreERKNS_5ScoreEP7QWidget@Base 4:14.12.50
+ _ZN13KExtHighscore17MultiplayerScores14setPlayerCountEj@Base 4:14.12.50
+ _ZN13KExtHighscore17MultiplayerScores4showEP7QWidget@Base 4:14.12.50
+ _ZN13KExtHighscore17MultiplayerScores5clearEv@Base 4:14.12.50
+ _ZN13KExtHighscore17MultiplayerScores7setNameEjRK7QString@Base 4:14.12.50
+ _ZN13KExtHighscore17MultiplayerScores8addScoreEjRKNS_5ScoreE@Base 4:14.12.50
+ _ZN13KExtHighscore17MultiplayerScoresC1Ev@Base 4:14.12.50
+ _ZN13KExtHighscore17MultiplayerScoresC2Ev@Base 4:14.12.50
+ _ZN13KExtHighscore17MultiplayerScoresD1Ev@Base 4:14.12.50
+ _ZN13KExtHighscore17MultiplayerScoresD2Ev@Base 4:14.12.50
+ _ZN13KExtHighscore4Item10timeFormatEj@Base 4:14.12.50
+ _ZN13KExtHighscore4Item15setPrettyFormatENS0_6FormatE@Base 4:14.12.50
+ _ZN13KExtHighscore4Item16setPrettySpecialENS0_7SpecialE@Base 4:14.12.50
+ _ZN13KExtHighscore4ItemC1ERK8QVariantRK7QStringN2Qt13AlignmentFlagE@Base 4:14.12.50
+ _ZN13KExtHighscore4ItemC2ERK8QVariantRK7QStringN2Qt13AlignmentFlagE@Base 4:14.12.50
+ _ZN13KExtHighscore4ItemD0Ev@Base 4:14.12.50
+ _ZN13KExtHighscore4ItemD1Ev@Base 4:14.12.50
+ _ZN13KExtHighscore4ItemD2Ev@Base 4:14.12.50
+ _ZN13KExtHighscore4showEP7QWidget@Base 4:14.12.50
+ _ZN13KExtHighscore5Score7setDataERK7QStringRK8QVariant@Base 4:14.12.50
+ _ZN13KExtHighscore5ScoreC1ENS_9ScoreTypeE@Base 4:14.12.50
+ _ZN13KExtHighscore5ScoreC2ENS_9ScoreTypeE@Base 4:14.12.50
+ _ZN13KExtHighscore5ScoreD1Ev@Base 4:14.12.50
+ _ZN13KExtHighscore5ScoreD2Ev@Base 4:14.12.50
+ _ZN13KExtHighscore5ScoreltERKS0_@Base 4:14.12.50
+ _ZN13KExtHighscore7Manager10createItemENS0_8ItemTypeE@Base 4:14.12.50
+ _ZN13KExtHighscore7Manager11setShowModeENS0_8ShowModeE@Base 4:14.12.50
+ _ZN13KExtHighscore7Manager12addScoreItemERK7QStringPNS_4ItemE@Base 4:14.12.50
+ _ZN13KExtHighscore7Manager12setScoreItemEjPNS_4ItemE@Base 4:14.12.50
+ _ZN13KExtHighscore7Manager12setScoreTypeENS0_9ScoreTypeE@Base 4:14.12.50
+ _ZN13KExtHighscore7Manager13addToQueryURLER4QUrlRK7QStringS5_@Base 4:14.12.50
+ _ZN13KExtHighscore7Manager13setPlayerItemENS0_14PlayerItemTypeEPNS_4ItemE@Base 4:14.12.50
+ _ZN13KExtHighscore7Manager15setWWHighscoresERK4QUrlRK7QString@Base 4:14.12.50
+ _ZN13KExtHighscore7Manager17setScoreHistogramERK7QVectorIjENS0_14ScoreTypeBoundE@Base 4:14.12.50
+ _ZN13KExtHighscore7Manager17setShowStatisticsEb@Base 4:14.12.50
+ _ZN13KExtHighscore7Manager17setTrackDrawGamesEb@Base 4:14.12.50
+ _ZN13KExtHighscore7Manager17setTrackLostGamesEb@Base 4:14.12.50
+ _ZN13KExtHighscore7Manager25setShowDrawGamesStatisticEb@Base 4:14.12.50
+ _ZN13KExtHighscore7ManagerC1Ejj@Base 4:14.12.50
+ _ZN13KExtHighscore7ManagerC2Ejj@Base 4:14.12.50
+ _ZN13KExtHighscore7ManagerD0Ev@Base 4:14.12.50
+ _ZN13KExtHighscore7ManagerD1Ev@Base 4:14.12.50
+ _ZN13KExtHighscore7ManagerD2Ev@Base 4:14.12.50
+ _ZN13KExtHighscore8gameTypeEv@Base 4:14.12.50
+ _ZN13KExtHighscore9configureEP7QWidget@Base 4:14.12.50
+ _ZN13KExtHighscore9lastScoreEv@Base 4:14.12.50
+ _ZN13KExtHighscorelsER11QDataStreamRKNS_17MultiplayerScoresE@Base 4:14.12.50
+ _ZN13KExtHighscorelsER11QDataStreamRKNS_5ScoreE@Base 4:14.12.50
+ _ZN13KExtHighscorersER11QDataStreamRNS_17MultiplayerScoresE@Base 4:14.12.50
+ _ZN13KExtHighscorersER11QDataStreamRNS_5ScoreE@Base 4:14.12.50
  _ZN13KGameRenderer11qt_metacallEN11QMetaObject4CallEiPPv@Base 4:14.12.50
  _ZN13KGameRenderer11qt_metacastEPKc@Base 4:14.12.50
  _ZN13KGameRenderer12themeChangedEPK7KgTheme@Base 4:14.12.50
@@ -310,6 +363,13 @@ libKF5KDEGames.so.7 libkf5kdegames7 #MINVER#
  _ZNK12KgDifficulty13isGameRunningEv@Base 4:14.12.50
  _ZNK12KgDifficulty6levelsEv@Base 4:14.12.50
  _ZNK12QPaintDevice7devTypeEv@Base 4:14.12.50
+ _ZNK13KExtHighscore4Item4readEjRK8QVariant@Base 4:14.12.50
+ _ZNK13KExtHighscore4Item6prettyEjRK8QVariant@Base 4:14.12.50
+ _ZNK13KExtHighscore5Score10isTheWorstEv@Base 4:14.12.50
+ _ZNK13KExtHighscore5Score4dataERK7QString@Base 4:14.12.50
+ _ZNK13KExtHighscore7Manager13gameTypeLabelEjNS0_9LabelTypeE@Base 4:14.12.50
+ _ZNK13KExtHighscore7Manager14isStrictlyLessERKNS_5ScoreES3_@Base 4:14.12.50
+ _ZNK13KExtHighscore7Manager17submitLegacyScoreERKNS_5ScoreE@Base 4:14.12.50
  _ZNK13KGameRenderer10frameCountERK7QString@Base 4:14.12.50
  _ZNK13KGameRenderer10metaObjectEv@Base 4:14.12.50
  _ZNK13KGameRenderer10strategiesEv@Base 4:14.12.50
@@ -388,6 +448,8 @@ libKF5KDEGames.so.7 libkf5kdegames7 #MINVER#
  _ZTI23KGameRenderedObjectItem@Base 4:14.12.50
  _ZTI7KgSound@Base 4:14.12.50
  _ZTI7KgTheme@Base 4:14.12.50
+ _ZTIN13KExtHighscore4ItemE@Base 4:14.12.50
+ _ZTIN13KExtHighscore7ManagerE@Base 4:14.12.50
  _ZTIN15KgThemeSelector6DialogE@Base 4:14.12.50
  _ZTS10KGameClock@Base 4:14.12.50
  _ZTS10KHighscore@Base 4:14.12.50
@@ -405,6 +467,8 @@ libKF5KDEGames.so.7 libkf5kdegames7 #MINVER#
  _ZTS23KGameRenderedObjectItem@Base 4:14.12.50
  _ZTS7KgSound@Base 4:14.12.50
  _ZTS7KgTheme@Base 4:14.12.50
+ _ZTSN13KExtHighscore4ItemE@Base 4:14.12.50
+ _ZTSN13KExtHighscore7ManagerE@Base 4:14.12.50
  _ZTSN15KgThemeSelector6DialogE@Base 4:14.12.50
  _ZTV10KGameClock@Base 4:14.12.50
  _ZTV10KHighscore@Base 4:14.12.50
@@ -421,6 +485,8 @@ libKF5KDEGames.so.7 libkf5kdegames7 #MINVER#
  _ZTV23KGameRenderedObjectItem@Base 4:14.12.50
  _ZTV7KgSound@Base 4:14.12.50
  _ZTV7KgTheme@Base 4:14.12.50
+ _ZTVN13KExtHighscore4ItemE@Base 4:14.12.50
+ _ZTVN13KExtHighscore7ManagerE@Base 4:14.12.50
  _ZTVN15KgThemeSelector6DialogE@Base 4:14.12.50
  (c++)"non-virtual thunk to KGamePopupItem::boundingRect() const@Base" 4:14.12.50
  (c++)"non-virtual thunk to KGamePopupItem::hoverEnterEvent(QGraphicsSceneHoverEvent*)@Base" 4:14.12.50
