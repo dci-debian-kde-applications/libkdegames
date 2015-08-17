@@ -1,4 +1,4 @@
-# SymbolsHelper-Confirmed: 4:14.12.50 amd64
+# SymbolsHelper-Confirmed: 4:15.07.90 amd64
 libKF5KDEGamesPrivate.so.1 libkf5kdegamesprivate1 #MINVER#
  _ZN10KGameKeyIO11eventFilterEP7QObjectP6QEvent@Base 4:14.12.50
  _ZN10KGameKeyIO11qt_metacallEN11QMetaObject4CallEiPPv@Base 4:14.12.50
@@ -484,9 +484,6 @@ libKF5KDEGamesPrivate.so.1 libkf5kdegamesprivate1 #MINVER#
  _ZN25KGameCanvasRenderedPixmap13receivePixmapERK7QPixmap@Base 4:14.12.50
  _ZN25KGameCanvasRenderedPixmapC1EP13KGameRendererRK7QStringP19KGameCanvasAbstract@Base 4:14.12.50
  _ZN25KGameCanvasRenderedPixmapC2EP13KGameRendererRK7QStringP19KGameCanvasAbstract@Base 4:14.12.50
- _ZN25KGameCanvasRenderedPixmapD0Ev@Base 4:14.12.50
- _ZN25KGameCanvasRenderedPixmapD1Ev@Base 4:14.12.50
- _ZN25KGameCanvasRenderedPixmapD2Ev@Base 4:14.12.50
  _ZN5KGame10emitSignalEP17KGamePropertyBase@Base 4:14.12.50
  _ZN5KGame10loadPlayerER11QDataStreamb@Base 4:14.12.50
  _ZN5KGame10nextPlayerEP7KPlayerb@Base 4:14.12.50
@@ -945,7 +942,6 @@ libKF5KDEGamesPrivate.so.1 libkf5kdegamesprivate1 #MINVER#
  (c++)"non-virtual thunk to KGameCanvasGroup::topLevelCanvas()@Base" 4:14.12.50
  (c++)"non-virtual thunk to KGameCanvasGroup::~KGameCanvasGroup()@Base" 4:14.12.50
  (c++)"non-virtual thunk to KGameCanvasRenderedPixmap::receivePixmap(QPixmap const&)@Base" 4:14.12.50
- (c++)"non-virtual thunk to KGameCanvasRenderedPixmap::~KGameCanvasRenderedPixmap()@Base" 4:14.12.50
  (c++)"non-virtual thunk to KGameCanvasWidget::canvasPosition() const@Base" 4:14.12.50
  (c++)"non-virtual thunk to KGameCanvasWidget::ensureAnimating()@Base" 4:14.12.50
  (c++)"non-virtual thunk to KGameCanvasWidget::ensurePendingUpdate()@Base" 4:14.12.50

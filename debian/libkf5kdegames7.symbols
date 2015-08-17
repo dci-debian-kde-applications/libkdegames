@@ -1,4 +1,4 @@
-# SymbolsHelper-Confirmed: 4:15.04.2+git20150805.1219 amd64 i386
+# SymbolsHelper-Confirmed: 4:15.07.90 amd64
 libKF5KDEGames.so.7 libkf5kdegames7 #MINVER#
  _ZN10KGameClock11qt_metacallEN11QMetaObject4CallEiPPv@Base 4:14.12.50
  _ZN10KGameClock11qt_metacastEPKc@Base 4:14.12.50
@@ -162,9 +162,6 @@ libKF5KDEGames.so.7 libkf5kdegames7 #MINVER#
  _ZN15KgThemeSelector11qt_metacastEPKc@Base 4:14.12.50
  _ZN15KgThemeSelector12showAsDialogERK7QString@Base 4:14.12.50
  _ZN15KgThemeSelector16staticMetaObjectE@Base 4:14.12.50
- _ZN15KgThemeSelector6DialogD0Ev@Base 4:14.12.50
- _ZN15KgThemeSelector6DialogD1Ev@Base 4:14.12.50
- _ZN15KgThemeSelector6DialogD2Ev@Base 4:14.12.50
  _ZN15KgThemeSelector7Private21_k_showNewStuffDialogEv@Base 4:14.12.50
  _ZN15KgThemeSelector7Private22_k_updateListSelectionEPK7KgTheme@Base 4:14.12.50
  _ZN15KgThemeSelector7Private26_k_updateProviderSelectionEv@Base 4:14.12.50
@@ -185,9 +182,6 @@ libKF5KDEGames.so.7 libkf5kdegames7 #MINVER#
  _ZN17KgDeclarativeView16staticMetaObjectE@Base 4:14.12.50
  _ZN17KgDeclarativeViewC1EP7QWidget@Base 4:14.12.50
  _ZN17KgDeclarativeViewC2EP7QWidget@Base 4:14.12.50
- _ZN17KgDeclarativeViewD0Ev@Base 4:14.12.50
- _ZN17KgDeclarativeViewD1Ev@Base 4:14.12.50
- _ZN17KgDeclarativeViewD2Ev@Base 4:14.12.50
  _ZN17KgDifficultyLevel11qt_metacallEN11QMetaObject4CallEiPPv@Base 4:14.12.50
  _ZN17KgDifficultyLevel11qt_metacastEPKc@Base 4:14.12.50
  _ZN17KgDifficultyLevel16staticMetaObjectE@Base 4:14.12.50
@@ -440,6 +434,4 @@ libKF5KDEGames.so.7 libkf5kdegames7 #MINVER#
  (c++)"non-virtual thunk to KGameRenderedObjectItem::shape() const@Base" 4:14.12.50
  (c++)"non-virtual thunk to KGameRenderedObjectItem::~KGameRenderedObjectItem()@Base" 4:14.12.50
  (c++)"non-virtual thunk to KScoreDialog::~KScoreDialog()@Base" 4:14.12.50
- (c++)"non-virtual thunk to KgDeclarativeView::~KgDeclarativeView()@Base" 4:14.12.50
- (c++)"non-virtual thunk to KgThemeSelector::Dialog::~Dialog()@Base" 4:14.12.50
  (c++)"non-virtual thunk to KgThemeSelector::~KgThemeSelector()@Base" 4:14.12.50
