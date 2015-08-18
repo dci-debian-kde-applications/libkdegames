@@ -1,4 +1,4 @@
-libkdegames (4:15.07.90-0ubuntu1) UNRELEASED; urgency=medium
+libkdegames (4:15.07.90-0ubuntu1) wily; urgency=medium
 
   [ José Manuel Santamaría Lema ]
   * Update symbols files: mark as optional the symbols gone after
@@ -7,7 +7,7 @@ libkdegames (4:15.07.90-0ubuntu1) UNRELEASED; urgency=medium
   [ Jonathan Riddell ]
   * New upstream beta release
 
- -- Jonathan Riddell <jriddell@ubuntu.com>  Thu, 13 Aug 2015 22:42:39 +0100
+ -- Jonathan Riddell <jriddell@ubuntu.com>  Tue, 18 Aug 2015 11:23:38 +0100
 
 libkdegames (4:15.04.2-0ubuntu5) wily; urgency=medium
 
