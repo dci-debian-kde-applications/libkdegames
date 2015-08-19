@@ -66,7 +66,7 @@ Description: private part of shared library for KDE games
 
 Package: qml-module-org-kde-games-core
 Architecture: any
-Depends: ${misc:Depends}, ${shlibs:Depends}
+Depends: qml-module-qtquick2, ${misc:Depends}, ${shlibs:Depends}
 Description: kde-games-core QtDeclarative QML support
  Contains a plugin for QtDeclarative that provides
  support for using KDE-games-core to components written
