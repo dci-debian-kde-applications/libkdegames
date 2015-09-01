@@ -1,4 +1,4 @@
-# SymbolsHelper-Confirmed: 4:14.12.2 amd64
+# SymbolsHelper-Confirmed: 4:4.14.2 amd64
 libkdegames.so.6abi1 libkdegames6abi1 #MINVER#
  ABI_6_1@ABI_6_1 4:4.11.1
  _ZN10KGameClock11qt_metacallEN11QMetaObject4CallEiPPv@ABI_6_1 4:4.11.1
