@@ -104,7 +104,7 @@ Files: highscore/kscoredialog.h
 Copyright: 1998, Sandro Sigala <ssigala@globalnet.it>
            2001, Waldo Bastian <bastian@kde.org>
            2007, Matt Williams <matt@milliams.com>
-License: Other
+License: Expat-like-Highscore
  Permission to use, copy, modify, and distribute this software and its
  documentation for any purpose and without fee is hereby granted, provided
  that the above copyright notice appear in all copies and that both that the
@@ -125,7 +125,7 @@ Copyright: 2009, Parker Coates <parker.coates@kdemail.net>
            2000, Laura Layland <l_layland@hotmail.com>
            1999, Stefan Spatz <s-p-a@gmx.net>
            Agnieszka Czajkowska <agnieszka@imagegalaxy.de>
-License: Other
+License: Expat-like-Carddecks
  Copyright 1999 Stefan Spatz <s-p-a@gmx.net>
  .
  Permission is hereby granted, free of charge, to any member of the KDE

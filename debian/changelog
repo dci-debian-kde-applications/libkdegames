@@ -6,6 +6,62 @@ libkdegames (4:15.08.0-1~) UNRELEASED; urgency=medium
 
  -- Maximiliano Curia <maxy@debian.org>  Tue, 01 Sep 2015 15:18:21 +0200
 
+libkdegames (4:15.08.0-0ubuntu1) wily; urgency=medium
+
+  * new upstream release
+
+ -- Clive Johnston <clivejo@aol.com>  Wed, 26 Aug 2015 17:45:45 +0100
+
+libkdegames (4:15.07.90-0ubuntu1) wily; urgency=medium
+
+  [ José Manuel Santamaría Lema ]
+  * Update symbols files: mark as optional the symbols gone after
+    building with GCC 5
+
+  [ Jonathan Riddell ]
+  * New upstream beta release
+
+ -- Jonathan Riddell <jriddell@ubuntu.com>  Tue, 18 Aug 2015 11:23:38 +0100
+
+libkdegames (4:15.04.2-0ubuntu5) wily; urgency=medium
+
+  * Remove acc test
+
+ -- Jonathan Riddell <jriddell@ubuntu.com>  Tue, 23 Jun 2015 13:20:04 +0200
+
+libkdegames (4:15.04.2-0ubuntu4) wily; urgency=medium
+
+  * Remove libkf5kdegames6.acc.in until I work out how to fix it
+
+ -- Jonathan Riddell <jriddell@ubuntu.com>  Mon, 22 Jun 2015 22:40:35 +0200
+
+libkdegames (4:15.04.2-0ubuntu3) wily; urgency=medium
+
+  * Port libkf5kdegames6.acc to kf5
+
+ -- Jonathan Riddell <jriddell@ubuntu.com>  Mon, 22 Jun 2015 14:43:39 +0200
+
+libkdegames (4:15.04.2-0ubuntu2) wily; urgency=medium
+
+  * No change upload due to jenkins random fails
+
+ -- Jonathan Riddell <jriddell@ubuntu.com>  Mon, 22 Jun 2015 12:51:31 +0200
+
+libkdegames (4:15.04.2-0ubuntu1) wily; urgency=medium
+
+  [ Harald Sitter ]
+  * KDE Frameworks 5 port
+    + Rename all libraries to match new sonames
+    + Give the data package a kf5 suffix as to not conflict with
+      the kdelibs4 version which has different paths but the same assets
+    + Rename declarative package to align with the qml-module-foo naming
+      policy
+
+  [ Scarlett Clark ]
+  * New upstream release
+
+ -- Jonathan Riddell <jriddell@ubuntu.com>  Tue, 09 Jun 2015 19:43:49 +0200
+
 libkdegames (4:14.12.2-2) unstable; urgency=medium
 
   * Migrate to unstable.
