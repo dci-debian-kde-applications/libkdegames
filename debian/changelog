@@ -4,6 +4,7 @@ libkdegames (4:15.08.0-1~) UNRELEASED; urgency=medium
   * Update symbols files from buildds logs (4:14.12.2-1).
   * New upstream release (15.08.0).
   * Update copyright file.
+  * Add missing dev dependency (thanks to acc headers check)
 
  -- Maximiliano Curia <maxy@debian.org>  Tue, 01 Sep 2015 15:18:21 +0200
 
