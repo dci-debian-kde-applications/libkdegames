@@ -1,8 +1,14 @@
-libkdegames (4:15.08.1-0ubuntu1) UNRELEASED; urgency=medium
+libkdegames (4:15.08.2-0ubuntu2) UNRELEASED; urgency=medium
 
-  * Vivid backport
+  * Fix merge. 
 
- -- Scarlett Clark <sgclark@kubuntu.org>  Thu, 01 Oct 2015 12:31:40 -0700
+ -- Scarlett Clark <sgclark@kubuntu.org>  Fri, 16 Oct 2015 17:45:45 -0700
+
+libkdegames (4:15.08.2-0ubuntu1) wily; urgency=medium
+
+  * New upstream release
+
+ -- Scarlett Clark <sgclark@kubuntu.org>  Wed, 14 Oct 2015 12:56:22 +0100
 
 libkdegames (4:15.08.1-0ubuntu1) wily; urgency=medium
 
