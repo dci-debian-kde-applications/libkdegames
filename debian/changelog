@@ -1,6 +1,6 @@
-libkdegames (4:14.12.2-3~) UNRELEASED; urgency=medium
+libkdegames-kde4 (4:14.12.3-1~) UNRELEASED; urgency=medium
 
-  * 
+  * Re introduce the kde4 libkdegames version.
 
  -- Maximiliano Curia <maxy@debian.org>  Mon, 19 Oct 2015 19:13:30 +0200
 
