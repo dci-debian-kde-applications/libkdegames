@@ -1,4 +1,4 @@
-# SymbolsHelper-Confirmed: 4:15.07.90 amd64
+# SymbolsHelper-Confirmed: 4:15.08.0 arm64 armhf hppa
 libKF5KDEGames.so.6 libkf5kdegames6 #MINVER#
  _ZN10KGameClock11qt_metacallEN11QMetaObject4CallEiPPv@Base 4:14.12.50
  _ZN10KGameClock11qt_metacastEPKc@Base 4:14.12.50
@@ -334,6 +334,7 @@ libKF5KDEGames.so.6 libkf5kdegames6 #MINVER#
  _ZN7KgThemeD0Ev@Base 4:14.12.50
  _ZN7KgThemeD1Ev@Base 4:14.12.50
  _ZN7KgThemeD2Ev@Base 4:14.12.50
+ (optional=templinst)_ZN7QObject7connectIM16QDialogButtonBoxFvvEM7QDialogFvvEEEN11QMetaObject10ConnectionEPKN9QtPrivate15FunctionPointerIT_E6ObjectESB_PKNSA_IT0_E6ObjectESG_N2Qt14ConnectionTypeE@Base 4:15.08.0
  _ZNK10KGameClock10metaObjectEv@Base 4:14.12.50
  _ZNK10KGameClock10timeStringEv@Base 4:14.12.50
  _ZNK10KGameClock7secondsEv@Base 4:14.12.50
@@ -349,7 +350,7 @@ libKF5KDEGames.so.6 libkf5kdegames6 #MINVER#
  _ZNK10KHighscore8readListERK7QStringi@Base 4:14.12.50
  _ZNK10KHighscore9groupListEv@Base 4:14.12.50
  _ZNK10KHighscore9readEntryEiRK7QStringS2_@Base 4:14.12.50
- (optional=templinst)_ZNK12KConfigGroup9readEntryI10QByteArrayEET_PKcRKS2_@Base 4:14.12.50
+ (optional=templinst|arch=!arm64)_ZNK12KConfigGroup9readEntryI10QByteArrayEET_PKcRKS2_@Base 4:14.12.50
  _ZNK12KScoreDialog10metaObjectEv@Base 4:14.12.50
  _ZNK12KgDifficulty10isEditableEv@Base 4:14.12.50
  _ZNK12KgDifficulty10metaObjectEv@Base 4:14.12.50
