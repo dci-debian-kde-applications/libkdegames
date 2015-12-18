@@ -1,5 +1,5 @@
 # SymbolsHelper-Confirmed: 4:15.08.0 arm64 armhf hppa
-libKF5KDEGames.so.6 libkf5kdegames6 #MINVER#
+libKF5KDEGames.so.7 libkf5kdegames7 #MINVER#
  _ZN10KGameClock11qt_metacallEN11QMetaObject4CallEiPPv@Base 4:14.12.50
  _ZN10KGameClock11qt_metacastEPKc@Base 4:14.12.50
  _ZN10KGameClock11timeChangedERK7QString@Base 4:14.12.50
