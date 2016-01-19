@@ -79,25 +79,13 @@ Architecture: any
 Section: libdevel
 Depends: libkf5completion-dev,
          libkf5declarative-dev,
-         libkf5kdegames6 (= ${binary:Version}),
+         libkf5kdegames7 (= ${binary:Version}),
          libkf5kdegamesprivate1 (= ${binary:Version}),
          qtbase5-dev (>= 5.4),
          ${misc:Depends}
 Description: development files for the KDE games library
  This package contains development files for building software that uses
  libraries from the KDE games module.
- .
- This package is part of the KDE games module.
-
-Package: libkf5kdegames-dbg
-Architecture: any
-Priority: extra
-Section: debug
-Depends: libkf5kdegames6 (= ${binary:Version}), ${misc:Depends}
-Suggests: kdegames
-Description: debugging symbols for the KDE games module
- This package contains the library debugging symbols of the shared library used
- by KDE games.
  .
  This package is part of the KDE games module.
 
