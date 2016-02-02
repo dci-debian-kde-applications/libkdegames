@@ -1,4 +1,4 @@
-# SymbolsHelper-Confirmed: 4:15.07.90 amd64
+# SymbolsHelper-Confirmed: 4:15.12.0+git20160114.0902+16.04 amd64 i386
 libKF5KDEGames.so.7 libkf5kdegames7 #MINVER#
  _ZN10KGameClock11qt_metacallEN11QMetaObject4CallEiPPv@Base 4:14.12.50
  _ZN10KGameClock11qt_metacastEPKc@Base 4:14.12.50
@@ -416,6 +416,7 @@ libKF5KDEGames.so.7 libkf5kdegames7 #MINVER#
  _ZTV7KgSound@Base 4:14.12.50
  _ZTV7KgTheme@Base 4:14.12.50
  _ZTVN15KgThemeSelector6DialogE@Base 4:14.12.50
+ _ZZZN15KgThemeSelector6DialogC4EPS_RK7QStringENKUlvE_clEvE15qstring_literal@Base 4:15.12.0+git20160114.0902+16.04
  (c++)"non-virtual thunk to KGamePopupItem::boundingRect() const@Base" 4:14.12.50
  (c++)"non-virtual thunk to KGamePopupItem::hoverEnterEvent(QGraphicsSceneHoverEvent*)@Base" 4:14.12.50
  (c++)"non-virtual thunk to KGamePopupItem::hoverLeaveEvent(QGraphicsSceneHoverEvent*)@Base" 4:14.12.50
