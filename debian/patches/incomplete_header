@@ -1,0 +1,10 @@
+Index: libkdegames/includes/CMakeLists.txt
+===================================================================
+--- libkdegames.orig/includes/CMakeLists.txt	2015-12-17 14:49:58.773645981 +0100
++++ libkdegames/includes/CMakeLists.txt	2016-01-20 17:19:43.978078141 +0100
+@@ -1,5 +1,4 @@
+ install(FILES
+-	KExtHighscore
+ 	KGameClock
+ 	KGamePopupItem
+ 	KGameRenderedItem

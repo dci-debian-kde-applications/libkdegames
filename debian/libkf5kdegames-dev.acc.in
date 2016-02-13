@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<descriptor>
+
+<version>
+    15.12.0
+</version>
+
+<headers>
+    /usr/include/KF5/KF5KDEGames/
+</headers>
+
+<libs>
+    /usr/lib/@@DEB_HOST_MULTIARCH@@/libKF5KDEGames.so
+    /usr/lib/@@DEB_HOST_MULTIARCH@@/libKF5KDEGamesPrivate.so
+</libs>
+
+<gcc_options>
+    -fPIC
+</gcc_options>
+
+</descriptor>
