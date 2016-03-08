@@ -1,4 +1,4 @@
-# SymbolsHelper-Confirmed: 4:15.12.0+git20160114.0902+16.04 amd64 i386
+# SymbolsHelper-Confirmed: 4:15.12.0 amd64
 libKF5KDEGamesPrivate.so.1 libkf5kdegamesprivate1 #MINVER#
  _ZN10KGameKeyIO11eventFilterEP7QObjectP6QEvent@Base 4:14.12.50
  _ZN10KGameKeyIO11qt_metacallEN11QMetaObject4CallEiPPv@Base 4:14.12.50
@@ -933,9 +933,9 @@ libKF5KDEGamesPrivate.so.1 libkf5kdegamesprivate1 #MINVER#
  _ZTV7KPlayer@Base 4:14.12.50
  _ZTV9KChatBase@Base 4:14.12.50
  _ZTV9KGameChat@Base 4:14.12.50
- _ZZZNK10KMessageIO11isConnectedEvENKUlvE_clEvE15qstring_literal@Base 4:15.12.0+git20160114.0902+16.04
- _ZZZNK10KMessageIO8peerNameEvENKUlvE_clEvE15qstring_literal@Base 4:15.12.0+git20160114.0902+16.04
- _ZZZNK10KMessageIO9isNetworkEvENKUlvE_clEvE15qstring_literal@Base 4:15.12.0+git20160114.0902+16.04
+ _ZZZNK10KMessageIO11isConnectedEvENKUlvE_clEvE15qstring_literal@Base 4:15.12.0
+ _ZZZNK10KMessageIO8peerNameEvENKUlvE_clEvE15qstring_literal@Base 4:15.12.0
+ _ZZZNK10KMessageIO9isNetworkEvENKUlvE_clEvE15qstring_literal@Base 4:15.12.0
  (c++)"non-virtual thunk to KChatBase::~KChatBase()@Base" 4:14.12.50
  (c++)"non-virtual thunk to KGameCanvasGroup::canvasPosition() const@Base" 4:14.12.50
  (c++)"non-virtual thunk to KGameCanvasGroup::ensureAnimating()@Base" 4:14.12.50

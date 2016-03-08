@@ -1,9 +1,35 @@
+libkdegames (4:15.12.1-0ubuntu1) UNRELEASED; urgency=medium
+
+  [ Clive Johnston ]
+  * Merged with Debian
+  * New upstream release
+
+  [ Scarlett Clark ]
+  * Fix merger. 
+
+ -- Clive Johnston <clivejo@aol.com>  Sat, 13 Feb 2016 15:00:47 +0000
+
+libkdegames (4:15.12.0-1) experimental; urgency=medium
+
+  * New upstream release (15.12.0).
+  * Follow upstream soversion bump
+  * New patch: incomplete_header
+
+ -- Maximiliano Curia <maxy@debian.org>  Mon, 01 Feb 2016 10:23:32 +0100
+
 libkdegames (4:15.12.0-0ubuntu1) UNRELEASED; urgency=medium
 
   * New upstream release
   * Updating symbols 
 
  -- Clive Johnston <clivejo@aol.com>  Sat, 02 Jan 2016 14:31:52 +0000
+
+libkdegames (4:15.08.3-1) unstable; urgency=medium
+
+  * New upstream release (15.08.3).
+  * Update symbols files from buildds logs (4:15.08.0-1).
+
+ -- Maximiliano Curia <maxy@debian.org>  Wed, 02 Dec 2015 12:39:20 +0100
 
 libkdegames (4:15.08.2-0ubuntu1) wily; urgency=medium
 
@@ -16,6 +42,16 @@ libkdegames (4:15.08.1-0ubuntu1) wily; urgency=medium
   * New upstream release (15.08.1)
 
  -- Clive Johnston <clivejo@aol.com>  Tue, 22 Sep 2015 17:40:02 +0100
+
+libkdegames (4:15.08.0-1) unstable; urgency=medium
+
+  * New upstream release (15.04.0).
+  * Update symbols files from buildds logs (4:14.12.2-1).
+  * New upstream release (15.08.0).
+  * Update copyright file.
+  * Add missing dev dependency (thanks to acc headers check)
+
+ -- Maximiliano Curia <maxy@debian.org>  Mon, 07 Sep 2015 21:00:19 +0200
 
 libkdegames (4:15.08.0-0ubuntu1) wily; urgency=medium
 
@@ -73,10 +109,24 @@ libkdegames (4:15.04.2-0ubuntu1) wily; urgency=medium
 
  -- Jonathan Riddell <jriddell@ubuntu.com>  Tue, 09 Jun 2015 19:43:49 +0200
 
+libkdegames (4:14.12.2-2) unstable; urgency=medium
+
+  * Migrate to unstable.
+  * Update symbols files.
+
+ -- Maximiliano Curia <maxy@debian.org>  Tue, 01 Sep 2015 15:36:46 +0200
+
+libkdegames (4:14.12.2-1) experimental; urgency=medium
+
+  * New upstream release (14.12.2).
+  * Bump Standards-Version to 3.9.6, no changes needed.
+
+ -- Maximiliano Curia <maxy@debian.org>  Fri, 20 Feb 2015 08:53:26 +0100
+
 libkdegames (4:14.12.2-0ubuntu1) vivid; urgency=medium
 
   * New upstream release
-  * Remove unstable from watch file, uscan fails with 
+  * Remove unstable from watch file, uscan fails with
     remote site does not even have current version
 
  -- Scarlett Clark <sgclark@kubuntu.org>  Tue, 10 Feb 2015 09:38:39 -0800
@@ -101,6 +151,12 @@ libkdegames (4:14.11.97-0ubuntu1) vivid; urgency=medium
   * kdegames-card-data replaces/breaks old split out packages
 
  -- Jonathan Riddell <jriddell@ubuntu.com>  Mon, 01 Dec 2014 18:03:49 +0100
+
+libkdegames (4:4.14.2-2) unstable; urgency=medium
+
+  * Update symbols files. (Closes: #777950)
+
+ -- Maximiliano Curia <maxy@debian.org>  Mon, 10 Aug 2015 16:52:33 +0200
 
 libkdegames (4:4.14.2-1) unstable; urgency=medium
 
@@ -331,7 +387,7 @@ libkdegames (4:4.10.80-0ubuntu1) saucy; urgency=low
   * New upstream release
 
   [ Philip Muškovac ]
-  * Add Qml imports to libkdegames6.install 
+  * Add Qml imports to libkdegames6.install
   * Add new symbols to libkdegames6.symbols
 
   [ Jonathan Riddell ]
@@ -425,7 +481,7 @@ libkdegames (4:4.9.97-0ubuntu1) raring; urgency=low
 libkdegames (4:4.9.95-0ubuntu1) raring; urgency=low
 
   [ Philip Muškovac ]
-  * New upstream release 
+  * New upstream release
   * drop kubuntu_01_cmake_licence.diff, fixed upstream
 
   [ Scott Kitterman ]
@@ -472,4 +528,3 @@ libkdegames (4:4.9.90-0ubuntu1) raring-proposed; urgency=low
   * Add kubuntu_01_cmake_licence.diff from upstream to add missing licence
 
  -- Jonathan Riddell <jriddell@ubuntu.com>  Sat, 24 Nov 2012 05:40:53 +0000
-
