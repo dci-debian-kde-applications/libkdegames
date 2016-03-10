@@ -1,4 +1,4 @@
-libkdegames (4:15.12.1-0ubuntu1) UNRELEASED; urgency=medium
+libkdegames (4:15.12.1-0ubuntu1) xenial; urgency=medium
 
   [ Clive Johnston ]
   * Merged with Debian
@@ -7,7 +7,7 @@ libkdegames (4:15.12.1-0ubuntu1) UNRELEASED; urgency=medium
   [ Scarlett Clark ]
   * Fix merger. 
 
- -- Clive Johnston <clivejo@aol.com>  Sat, 13 Feb 2016 15:00:47 +0000
+ -- Clive Johnston <clivejo@aol.com>  Wed, 09 Mar 2016 11:26:38 +0100
 
 libkdegames (4:15.12.0-1) experimental; urgency=medium
 
