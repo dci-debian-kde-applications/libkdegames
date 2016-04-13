@@ -1,7 +1,16 @@
-Index: libkdegames/includes/CMakeLists.txt
+From: Debian/Kubuntu Qt/KDE Maintainers <debian-qt-kde@lists.debian.org>
+Date: Wed, 13 Apr 2016 12:24:51 +0200
+Subject: incomplete_header
+
 ===================================================================
---- libkdegames.orig/includes/CMakeLists.txt	2015-12-17 14:49:58.773645981 +0100
-+++ libkdegames/includes/CMakeLists.txt	2016-01-20 17:19:43.978078141 +0100
+---
+ includes/CMakeLists.txt | 1 -
+ 1 file changed, 1 deletion(-)
+
+diff --git a/includes/CMakeLists.txt b/includes/CMakeLists.txt
+index 9a129c3..e69e532 100644
+--- a/includes/CMakeLists.txt
++++ b/includes/CMakeLists.txt
 @@ -1,5 +1,4 @@
  install(FILES
 -	KExtHighscore
