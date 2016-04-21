@@ -1,11 +1,12 @@
-libkdegames (4:15.12.3-1~1.gbp2e706a) UNRELEASED; urgency=medium
+libkdegames (4:16.04.0-1~1.gbpd68836) UNRELEASED; urgency=medium
 
-  ** SNAPSHOT build @2e706af846efa9ce55a675d6c68450ba6a882249 **
+  ** SNAPSHOT build @d68836571473c389e31a5acafd0e8896c0d871a1 **
 
   * Bump Standards-Version to 3.9.8
   * Refresh patches
+  * UNRELEASED
 
- -- Automatic packaging <maxy+jenkins@gnuservers.com.ar>  Wed, 13 Apr 2016 12:25:02 +0200
+ -- Automatic packaging <jenkins@amadeus.gnuservers.com.ar>  Thu, 21 Apr 2016 03:21:48 +0200
 
 libkdegames (4:15.12.0-1) experimental; urgency=medium
 
