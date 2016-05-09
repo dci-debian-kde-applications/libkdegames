@@ -1,11 +1,22 @@
-libkdegames (4:16.04.0-1~1.gbpd68836) UNRELEASED; urgency=medium
+libkdegames (4:16.04.0-1~2.gbpf97cee) UNRELEASED; urgency=medium
 
+  ** SNAPSHOT build @f97ceee201f19a9ce1a2cd959e51427d1a902e28 **
+
+  [ Automatic packaging ]
   ** SNAPSHOT build @d68836571473c389e31a5acafd0e8896c0d871a1 **
 
   * Bump Standards-Version to 3.9.8
   * Refresh patches
 
- -- Automatic packaging <jenkins@amadeus.gnuservers.com.ar>  Thu, 21 Apr 2016 03:21:48 +0200
+  [ Maximiliano Curia ]
+  * New upstream release (15.12.2).
+  * Hacky use of xephyr
+  * No curly brackets in the trap call
+  * Replace the "Historical name" ddeb-migration by its "Modern, clearer" replacement dbgsym-migration.
+  * Add upstream metadata (DEP-12)
+  * debian/control: Update Vcs-Browser and Vcs-Git fields
+
+ -- Maximiliano Curia <maxy@gnuservers.com.ar>  Mon, 09 May 2016 13:21:16 +0200
 
 libkdegames (4:15.12.0-1) experimental; urgency=medium
 
