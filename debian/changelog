@@ -1,10 +1,6 @@
-libkdegames (4:16.04.0-1~2.gbpf97cee) UNRELEASED; urgency=medium
-
-  ** SNAPSHOT build @f97ceee201f19a9ce1a2cd959e51427d1a902e28 **
+libkdegames (4:16.04.0-1) unstable; urgency=medium
 
   [ Automatic packaging ]
-  ** SNAPSHOT build @d68836571473c389e31a5acafd0e8896c0d871a1 **
-
   * Bump Standards-Version to 3.9.8
   * Refresh patches
 
@@ -16,7 +12,7 @@ libkdegames (4:16.04.0-1~2.gbpf97cee) UNRELEASED; urgency=medium
   * Add upstream metadata (DEP-12)
   * debian/control: Update Vcs-Browser and Vcs-Git fields
 
- -- Maximiliano Curia <maxy@gnuservers.com.ar>  Mon, 09 May 2016 13:21:16 +0200
+ -- Maximiliano Curia <maxy@debian.org>  Sat, 28 May 2016 02:20:22 +0200
 
 libkdegames (4:15.12.0-1) experimental; urgency=medium
 
