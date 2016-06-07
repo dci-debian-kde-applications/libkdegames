@@ -63,20 +63,6 @@ Description: development files for the KDE games library
  .
  This package is part of the KDE games module.
 
-Package: libkdegames6abi1-dbg
-Architecture: any
-Priority: extra
-Section: debug
-Depends: kde-runtime-dbg,
-         libkdegames6abi1 (= ${binary:Version}),
-         ${misc:Depends}
-Suggests: kdegames
-Description: debugging symbols for the KDE games module
- This package contains the library debugging symbols of the shared library used
- by KDE games.
- .
- This package is part of the KDE games module.
-
 Package: kdegames-card-data
 Architecture: all
 Section: games
