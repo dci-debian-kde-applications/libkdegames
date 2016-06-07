@@ -2,6 +2,7 @@ libkdegames-kde4 (4:14.12.3-2) UNRELEASED; urgency=medium
 
   [ Pino Toscano ]
   * Minor fix to copyright.
+  * Update Vcs-* fields.
 
  -- Debian/Kubuntu Qt/KDE Maintainers <debian-qt-kde@lists.debian.org>  Tue, 07 Jun 2016 06:20:10 +0200
 
