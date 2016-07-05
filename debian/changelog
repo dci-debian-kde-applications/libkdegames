@@ -1,14 +1,18 @@
-libkdegames (4:16.04.1-0neon) xenial; urgency=medium
+libkdegames (4:16.04.0-1) unstable; urgency=medium
 
-  * New release
+  [ Automatic packaging ]
+  * Bump Standards-Version to 3.9.8
+  * Refresh patches
 
- -- Neon CI <neon@kde.org>  Wed, 18 May 2016 18:44:29 +0200
-
-libkdegames (4:15.12.2-1~) UNRELEASED; urgency=medium
-
+  [ Maximiliano Curia ]
   * New upstream release (15.12.2).
+  * Hacky use of xephyr
+  * No curly brackets in the trap call
+  * Replace the "Historical name" ddeb-migration by its "Modern, clearer" replacement dbgsym-migration.
+  * Add upstream metadata (DEP-12)
+  * debian/control: Update Vcs-Browser and Vcs-Git fields
 
- -- Maximiliano Curia <maxy@debian.org>  Sat, 13 Feb 2016 09:56:14 +0100
+ -- Maximiliano Curia <maxy@debian.org>  Sat, 28 May 2016 02:20:22 +0200
 
 libkdegames (4:15.12.0-1) experimental; urgency=medium
 
