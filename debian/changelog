@@ -1,13 +1,13 @@
-libkdegames (4:16.08.0-0r1) UNRELEASED; urgency=medium
+libkdegames (4:16.08.0-1) unstable; urgency=medium
 
-  [ Pino Toscano ]
+  * Team upload.
   * New upstream release.
   * Wrap too long changelog line in entry for version 4:16.04.0-1.
   * Remove AUTHORS, COPYING, and COPYRIGHT files of themes from the local
     debian/tmp, so kdegames-card-data-kf5.install can be simplified a lot.
     - remove not-installed file, no more needed now
 
- -- Debian/Kubuntu Qt/KDE Maintainers <debian-qt-kde@lists.debian.org>  Sun, 28 Aug 2016 08:46:14 +0200
+ -- Pino Toscano <pino@debian.org>  Sun, 28 Aug 2016 09:03:23 +0200
 
 libkdegames (4:16.04.0-1) unstable; urgency=medium
 
