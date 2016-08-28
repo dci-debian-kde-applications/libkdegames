@@ -2,6 +2,11 @@
 
 include /usr/share/pkg-kde-tools/qt-kde-team/3/debian-qt-kde.mk
 
+override_dh_auto_install:
+	$(overridden_command)
+	# don't install extra license files
+	find debian/tmp \( -name AUTHORS -o -name COPYING -o -name COPYRIGHT \) -print -delete
+
 override_dh_strip:
 	$(overridden_command) --dbgsym-migration='libkf5kdegames-dbg (<= 4:15.12.0-1~~)'
 
