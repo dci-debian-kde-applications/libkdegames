@@ -1,3 +1,11 @@
+libkdegames (4:16.08.3-1~1.gbp674ff1) UNRELEASED; urgency=medium
+
+  ** SNAPSHOT build @674ff1d7253e3dfee8b9cc855ae8f8db7ad7ba27 **
+
+  * Update build-deps and deps with the info from cmake
+
+ -- Automatic packaging <maxy+jenkins@gnuservers.com.ar>  Thu, 10 Nov 2016 21:22:47 +0100
+
 libkdegames (4:16.08.0-1) unstable; urgency=medium
 
   * Team upload.
