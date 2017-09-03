@@ -51,6 +51,8 @@ Vcs-Git: https://anonscm.debian.org/git/pkg-kde/applications/libkdegames.git
 Package: libkf5kdegames7
 Architecture: any
 Depends: ${misc:Depends}, ${shlibs:Depends}
+Breaks: ${kde-l10n:all}
+Replaces: ${kde-l10n:all}
 Description: shared library for KDE games
  This package contains a shared library used by KDE games.
  .
