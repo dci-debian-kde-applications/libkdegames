@@ -1,3 +1,9 @@
+libkdegames (4:17.08.0-1~) UNRELEASED; urgency=medium
+
+  * New upstream release (17.08.0)
+
+ -- Maximiliano Curia <maxy@debian.org>  Sun, 03 Sep 2017 17:02:26 +0200
+
 libkdegames (4:17.08.0-0neon) xenial; urgency=medium
 
   * New release
