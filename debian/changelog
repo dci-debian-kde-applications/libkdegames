@@ -11,6 +11,7 @@ libkdegames (4:17.08.3-1~1) UNRELEASED; urgency=medium
   * Adjust l10npkgs_firstversion_ok to the version where kde-l10n will drop
     translations.
   * Bump Standards-Version to 4.1.1, no changes required.
+  * Remove unused kio-dev, and libkf5kdelibs4support-dev build dependencies.
 
  -- Debian/Kubuntu Qt/KDE Maintainers <debian-qt-kde@lists.debian.org>  Tue, 31 Oct 2017 18:03:38 +0100
 
